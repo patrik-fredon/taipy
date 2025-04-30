@@ -23,7 +23,7 @@
     "@emotion/styled": "^11.10.8",
     "@mui/icons-material": "^6.4.9",
     "@mui/material": "^6.0.1",
-    "@mui/x-date-pickers": "^7.0.0",
+    "@mui/x-date-pickers": "^7.28.3",
     "@mui/x-tree-view": "^7.28.1",
     "@projectstorm/react-diagrams": "^7.0.2",
     "date-fns": "^3.6.0",
