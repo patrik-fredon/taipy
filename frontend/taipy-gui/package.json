@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.10.0",
     "@mui/icons-material": "^6.4.11",
     "@mui/material": "^6.4.10",
-    "@mui/x-date-pickers": "^7.29.2",
+    "@mui/x-date-pickers": "^7.29.4",
     "@mui/x-tree-view": "^7.29.1",
     "apache-arrow": "^17.0.0",
     "axios": "^1.9.0",
